@@ -1,0 +1,2 @@
+docker build . -t back_and_front1
+docker run -p 5000:5000 back_and_front1

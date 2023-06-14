@@ -1,0 +1,7 @@
+#Run:
+docker run -p 8080:8080 simple-spring
+#Check:
+http://localhost:8080
+
+#Docker hub url:
+https://hub.docker.com/r/walnutro/simple-spring
