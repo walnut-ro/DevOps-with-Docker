@@ -1,11 +1,11 @@
 # Before optimizing
 D:\Personal\Education\Helsinki\devops-with-docker\DevOps-with-Docker>docker image ls
 REPOSITORY                          TAG             IMAGE ID       CREATED              SIZE
-frontend                            latest          aa115a841b7b   52 minutes ago       606MB
-backend                             latest          6e6ce2da22c0   About an hour ago    1.07GB
+frontend                            latest          280b47eb7bb6   52 minutes ago       606MB
+backend                             latest          af0d55389ba6   About an hour ago    1.07GB
 
 # After optimizing
 D:\Personal\Education\Helsinki\devops-with-docker\DevOps-with-Docker>docker image ls
 REPOSITORY                          TAG             IMAGE ID       CREATED          SIZE
-frontend-alpine                     latest          cdd927af56d9   50 seconds ago   465MB
-backend-alpine                      latest          0509cb322895   5 minutes ago    447MB
+frontend-alpine                     latest          6a42a9d23e40   50 seconds ago   465MB
+backend-alpine                      latest          592a86decca5   5 minutes ago    447MB
