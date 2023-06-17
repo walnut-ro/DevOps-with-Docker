@@ -1,0 +1,3 @@
+D:\Personal\Education\Helsinki\devops-with-docker\DevOps-with-Docker>docker image ls
+REPOSITORY                          TAG             IMAGE ID       CREATED             SIZE
+backend-alpine-multi                latest          e43172f9204f   43 seconds ago      18.6MB
